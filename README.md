@@ -4,6 +4,7 @@ This is practice for cloning the remote repo
 
 Updating Readme.md on master on gitHub before rebase
 
-## Repository Purpose
+## Purpose
 
-This file is just a readme file.
+Puropose is to provide examples
+on how to use Git and Github together.
